@@ -62,7 +62,7 @@ const Hero = () => {
                       height={24}
                       />
               </div>
-              <p className='bold-20 text-white'>Bhatiyari Cant.</p>
+              <p className='bold-20 text-white'>Foy's Lake.</p>
               <div className='flexBetween my-4'>
                     <div className='flex flex-col'>
                         <p  className='regular-16 block text-gray-20'>Distance</p>
